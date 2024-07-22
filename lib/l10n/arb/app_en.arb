@@ -1,0 +1,7 @@
+{
+    "@@locale": "en",
+    "recorderHomeTitle": "Voice Recorder Home",
+    "@recorderHomeTitle": {
+        "description": "Text shown at Recorder Home Page"
+    }
+}
